@@ -1,4 +1,3 @@
-
 var url = prompt("Enter URL Here (example: https://google.com)");
 if (url == null) {
   alert('No URL Entered!')
