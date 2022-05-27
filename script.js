@@ -1,4 +1,4 @@
-/* let inFrame
+let inFrame
 
 try {
     inFrame = window !== top
